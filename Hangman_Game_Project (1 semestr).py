@@ -1,6 +1,6 @@
 import random
 import sys
-words = ['amirkhan', 'hunter', 'sdudent', 'information', 'history', 'button', 'game', 'homework', 'python', 'wall', 'computer', 'minecraft', 'library',
+words = ['hunter', 'sdudent', 'information', 'history', 'button', 'game', 'homework', 'python', 'wall', 'computer', 'minecraft', 'library',
          'window', 'capital', 'almaty', 'letter', 'building', 'laptop', 'qwerty', 'hangman', 'floor', 'ceiling', 'kitchen', 'output', 'engineer', 'teacher', 'arm'
          'introduction', 'java', 'door', 'slippers', 'bed', 'light', 'human', 'cat', 'dog', 'horse', 'sdu', 'pillow', 'pinduoduo', 'instagram', 'whatsapp', 'tiktok']
 history = []
